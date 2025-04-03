@@ -1,0 +1,8 @@
+{
+	"admin_sections": [
+		{
+			"title": "Hero",
+			"admin_file": "sections/hero.json"
+		}
+	]
+}
