@@ -9,6 +9,14 @@
 			"admin_file": "sections/hero_ar.json"
 		},
 		{
+			"title": "About Us En",
+			"admin_file": "sections/about_us_en.json"
+		},
+		{
+			"title": "About Us Ar",
+			"admin_file": "sections/about_us_ar.json"
+		},
+		{
 			"title": "Farm Gallery",
 			"admin_file": "sections/farm_images.json"
 		},
