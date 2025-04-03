@@ -13,7 +13,7 @@
 			"data": "A leading company in growing and producing the finest dates since 2001, offering an exceptional tasting experience from the heart of the Egyptian desert"
 		},
 		"Background Image": {
-			"type": "Image",
+			"type": "image",
 			"data": "tree.jpg",
 			"path": "images/hero/"
 		}
