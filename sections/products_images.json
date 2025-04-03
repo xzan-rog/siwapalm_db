@@ -1,8 +1,8 @@
 {
-	"Farm Images": {
-		"Farm Images": {
+	"Products Images": {
+		"Products Images": {
 			"type": "element_array",
-			"path": "images/gallery/farms/",
+			"path": "images/gallery/products/",
 			"data": [
 				{
 					"Image": {
