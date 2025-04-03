@@ -2,7 +2,7 @@
 	"admin_sections": [
 		{
 			"title": "Hero",
-			"admin_file": "sections/hero.json"
+			"admin_file": "sections/hero_en.json"
 		}
 	]
 }
