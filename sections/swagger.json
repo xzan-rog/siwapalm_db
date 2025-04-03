@@ -1,8 +1,12 @@
 {
 	"admin_sections": [
 		{
-			"title": "Hero",
+			"title": "Hero En",
 			"admin_file": "sections/hero_en.json"
+		},
+		{
+			"title": "Hero Ar",
+			"admin_file": "sections/hero_ar.json"
 		}
 	]
 }
