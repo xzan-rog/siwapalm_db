@@ -15,6 +15,10 @@
 		{
 			"title": "Products Gallery",
 			"admin_file": "sections/products_images.json"
+		},
+		{
+			"title": "Production Gallery",
+			"admin_file": "sections/production_images.json"
 		}
 	]
 }

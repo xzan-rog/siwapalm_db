@@ -1,0 +1,28 @@
+{
+	"Production Images": {
+		"Production Images": {
+			"type": "element_array",
+			"path": "images/gallery/production/",
+			"data": [
+				{
+					"Image": {
+						"type": "image",
+						"data": "image0.jpg"
+					}
+				},
+				{
+					"Image": {
+						"type": "image",
+						"data": "image1.jpg"
+					}
+				},
+				{
+					"Image": {
+						"type": "image",
+						"data": "image2.jpg"
+					}
+				}
+			]
+		}
+	}
+}
