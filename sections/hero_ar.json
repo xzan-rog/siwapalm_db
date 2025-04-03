@@ -11,6 +11,11 @@
 		"Description": {
 			"type": "text",
 			"data": "شركة رائدة في زراعة وإنتاج أجود أنواع التمور منذ عام 2001، نقدم لكم تجربة تذوق استثنائية من قلب الصحراء المصرية"
+		},
+		"Background Image": {
+			"type": "image",
+			"data": "tree_ar.jpg",
+			"path": "images/hero/"
 		}
 	}
 }
