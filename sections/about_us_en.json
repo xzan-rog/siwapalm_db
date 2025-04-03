@@ -1,0 +1,29 @@
+{
+	"About Us": {
+		"Text Main": {
+			"type": "text",
+			"data": "Siwa Palm is a leading agricultural company with decades of experience, specializing in growing Medjool and Siwa dates in Siwa Oasis and Western Oases."
+		},
+		"Text Secondary": {
+			"type": "text",
+			"data": "Founded in 2001 as an Egyptian joint-stock company, it takes quality as its motto in production and export. It has won several awards as the best producer of semi-dry Medjool dates, and strives for global leadership."
+		},
+		"Cultural Heritage": {
+			"type": "text",
+			"data": "We honor and preserve the rich agricultural traditions of Siwa while embracing innovation to enhance our farming practices."
+		},
+		"Quality Excellence": {
+			"type": "text",
+			"data": "We are committed to producing only the finest dates, ensuring each fruit meets our strict quality standards before reaching our customers."
+		},
+		"Sustainability": {
+			"type": "text",
+			"data": "We employ eco-friendly farming practices that preserve the delicate ecosystem of Siwa Oasis while producing exceptional crops."
+		},
+		"Image": {
+			"type": "image",
+			"path": "images/about_us/",
+			"data": "tree.jpg"
+		}
+	}
+}
