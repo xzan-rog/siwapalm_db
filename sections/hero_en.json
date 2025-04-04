@@ -1,21 +1,21 @@
 {
-	"Hero": {
-		"Title Header": {
-			"type": "text",
-			"data": "Premium Dates from"
-		},
-		"Title Span": {
-			"type": "text",
-			"data": "Siwa Oasis"
-		},
-		"Description": {
-			"type": "text",
-			"data": "A leading company in growing and producing the finest dates since 2001, offering an exceptional tasting experience from the heart of the Egyptian desert"
-		},
-		"Background Image": {
-			"type": "image",
-			"data": "tree.jpg",
-			"path": "images/hero/"
-		}
-	}
+  "Hero": {
+    "Title Header": {
+      "type": "text",
+      "data": "Premium Dates fromsadasd"
+    },
+    "Title Span": {
+      "type": "text",
+      "data": "Siwa Oasis"
+    },
+    "Description": {
+      "type": "text",
+      "data": "A leading company in growing and producing the finest dates since 2001, offering an exceptional tasting experience from the heart of the Egyptian desert"
+    },
+    "Background Image": {
+      "type": "image",
+      "data": "tree.jpg",
+      "path": "images/hero/"
+    }
+  }
 }
