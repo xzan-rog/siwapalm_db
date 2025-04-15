@@ -1,28 +1,28 @@
 {
-	"Products Images": {
-		"Products Images": {
-			"type": "element_array",
-			"path": "images/gallery/products/",
-			"data": [
-				{
-					"Image": {
-						"type": "image",
-						"data": "image0.jpg"
-					}
-				},
-				{
-					"Image": {
-						"type": "image",
-						"data": "image1.jpg"
-					}
-				},
-				{
-					"Image": {
-						"type": "image",
-						"data": "image2.jpg"
-					}
-				}
-			]
-		}
-	}
+  "Products Images": {
+    "Products Images": {
+      "type": "element_array",
+      "path": "images/gallery/products/",
+      "data": [
+        {
+          "Image": {
+            "type": "image",
+            "data": "1744711661546.jpg"
+          }
+        },
+        {
+          "Image": {
+            "type": "image",
+            "data": "image1.jpg"
+          }
+        },
+        {
+          "Image": {
+            "type": "image",
+            "data": "1744711636617.jpg"
+          }
+        }
+      ]
+    }
+  }
 }
