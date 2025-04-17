@@ -1,28 +1,28 @@
 {
-	"Farm Images": {
-		"Farm Images": {
-			"type": "element_array",
-			"path": "images/gallery/farms/",
-			"data": [
-				{
-					"Image": {
-						"type": "image",
-						"data": "image0.jpg"
-					}
-				},
-				{
-					"Image": {
-						"type": "image",
-						"data": "image1.jpg"
-					}
-				},
-				{
-					"Image": {
-						"type": "image",
-						"data": "image2.jpg"
-					}
-				}
-			]
-		}
-	}
+  "Farm Images": {
+    "Farm Images": {
+      "type": "element_array",
+      "path": "images/gallery/farms/",
+      "data": [
+        {
+          "Image": {
+            "type": "image",
+            "data": "image0.jpg"
+          }
+        },
+        {
+          "Image": {
+            "type": "image",
+            "data": "image1.jpg"
+          }
+        },
+        {
+          "Image": {
+            "type": "image",
+            "data": "image2.jpg"
+          }
+        }
+      ]
+    }
+  }
 }
