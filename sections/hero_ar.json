@@ -1,21 +1,21 @@
 {
-	"Hero": {
-		"Title Header": {
-			"type": "text",
-			"data": "تمور فاخرة من"
-		},
-		"Title Span": {
-			"type": "text",
-			"data": "واحة سيوه"
-		},
-		"Description": {
-			"type": "text",
-			"data": "شركة رائدة في زراعة وإنتاج أجود أنواع التمور منذ عام 2001، نقدم لكم تجربة تذوق استثنائية من قلب الصحراء المصرية"
-		},
-		"Background Image": {
-			"type": "image",
-			"data": "tree_ar.jpg",
-			"path": "images/hero/"
-		}
-	}
+  "Hero": {
+    "Title Header": {
+      "type": "text",
+      "data": "تمور فاخرة من"
+    },
+    "Title Span": {
+      "type": "text",
+      "data": "واحة سيوه"
+    },
+    "Description": {
+      "type": "text",
+      "data": "شركة رائدة في زراعة وإنتاج أجود أنواع التمور منذ عام 2001، نقدم لكم تجربة تذوق استثنائية من قلب الصحراء المصرية"
+    },
+    "Background Image": {
+      "type": "image",
+      "data": "1747828821616.jpg",
+      "path": "images/hero/"
+    }
+  }
 }
